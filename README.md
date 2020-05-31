@@ -12,6 +12,18 @@ target = opacity * original + (1 - opacity) * background
 
 ## Installation 
 
+### Using Mint
+
+The easiest way to install the tool is using the Mint SPM tool.
+
+If you have Mint installed, run the following command:
+
+```
+mint install janagrill/transparency
+```
+
+For Mint installation and additional information please refer to its GitHub page at <https://github.com/yonaskolb/Mint>. 
+
 ### Manual installation
 
 You can build the project yourself using the Xcode command-line tools like this:
